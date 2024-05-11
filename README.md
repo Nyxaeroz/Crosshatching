@@ -21,3 +21,5 @@ Several parameters may be altered to achieve different results. In particular:
 
 # Notes
 Though the layers are saved as svg, in actuality these svgs contain images... At the moment, it is advised to use other programs to convert this to actual vector layers.
+
+See [this wiki page](https://pzwiki.wdka.nl/mediadesign/User:Thijshijsijsjss/Pen_Plotting_Panache/Plothatching_Workflow) for an extensive walkthrough of a possible workflow.
